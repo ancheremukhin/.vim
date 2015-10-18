@@ -18,6 +18,8 @@ nmap <C-p> :FufCoverageFile<CR>
 
 vn // y/<C-R>"<CR>
 
+set number
+
 if exists("+showtabline")
     function! MyTabLine()
         let s = ''

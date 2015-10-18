@@ -7,3 +7,6 @@
 [submodule "bundle/easymotion"]
 	path = bundle/easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "bundle/fuzzy-finder"]
+	path = bundle/fuzzy-finder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
