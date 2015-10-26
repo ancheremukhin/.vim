@@ -19,6 +19,9 @@ nmap <C-p> :FufCoverageFile<CR>
 vn // y/<C-R>"<CR>
 
 set number
+set expandtab
+set tabstop=4
+set shiftwidth=4
 
 if exists("+showtabline")
     function! MyTabLine()
